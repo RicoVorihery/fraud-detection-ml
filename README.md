@@ -13,13 +13,13 @@ It includes data preprocessing, feature engineering, LightGBM modeling, and a cl
 
 ## 🚀 Getting Started
 
-# Create virtual env and install dependencies
+### Create virtual env and install dependencies
 pip install -r requirements.txt
 
-# Generate processed data
+### Generate processed data
 python src/features.py
 
-# Train model (coming soon)
+### Train model (coming soon)
 python src/modeling/train.py
 
 ## 📦 Output
