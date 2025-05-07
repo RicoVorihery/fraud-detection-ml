@@ -13,7 +13,6 @@ It includes data preprocessing, feature engineering, LightGBM modeling, and a cl
 
 ## 🚀 Getting Started
 
-```bash
 # Create virtual env and install dependencies
 pip install -r requirements.txt
 
