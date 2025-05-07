@@ -111,7 +111,3 @@ models/
 # 👉 Logs
 *.log
 logs/
-
-# 👉 Cache divers
-.cache/
-.DS_Store
